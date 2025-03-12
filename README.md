@@ -7,3 +7,6 @@ I used a dataset from Kaggle, which contains 284,807 transactions, out of which 
 Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 After building and tuning the model using XGBOOST and RandomizedSearchCV, I evaluated its performance using various metrics, including precision, recall and F1-score."
+
+
+![Model Evaluation](confusionmatrix.png)
